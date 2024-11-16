@@ -3,7 +3,7 @@ module github.com/VarthanV/hyper-todo
 go 1.23.0
 
 require (
-	github.com/VarthanV/hyper v0.0.2
+	github.com/VarthanV/hyper v1.0.1
 	gorm.io/driver/sqlite v1.5.6
 	gorm.io/gorm v1.25.12
 )

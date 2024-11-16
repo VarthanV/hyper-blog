@@ -1,5 +1,5 @@
-github.com/VarthanV/hyper v0.0.2 h1:VeDPHAB1SAjM/oBXo8AGFWNBX5YSaLw8cklD64Xm3Kw=
-github.com/VarthanV/hyper v0.0.2/go.mod h1:SyOQvo31pBp8CEZOXoOxNGBTx3FQ/TCby3puA9BEoJQ=
+github.com/VarthanV/hyper v1.0.1 h1:t7YBYypVB1ubqxlpJsBTw11mkEsSwOXI0yAh7JR5E/U=
+github.com/VarthanV/hyper v1.0.1/go.mod h1:SyOQvo31pBp8CEZOXoOxNGBTx3FQ/TCby3puA9BEoJQ=
 github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
 github.com/jinzhu/inflection v1.0.0/go.mod h1:h+uFLlag+Qp1Va5pdKtLDYj+kHp5pxUVkryuEj+Srlc=
 github.com/jinzhu/now v1.1.5 h1:/o9tlHleP7gOFmsnYNz3RGnqzefHA47wQpKrrdTIwXQ=

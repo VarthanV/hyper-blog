@@ -6,8 +6,8 @@ import (
 
 	"gorm.io/gorm"
 
+	"github.com/VarthanV/hyper"
 	"github.com/VarthanV/hyper-todo/models"
-	hyper "github.com/VarthanV/hyper/core"
 )
 
 type Controller struct {

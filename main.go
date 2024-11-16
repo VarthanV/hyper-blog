@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
+	"github.com/VarthanV/hyper"
 	"github.com/VarthanV/hyper-todo/controllers"
 	"github.com/VarthanV/hyper-todo/models"
-	hyper "github.com/VarthanV/hyper/core"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )
